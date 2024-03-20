@@ -1,0 +1,16 @@
+
+# Ignore unreal directories.
+.vs/
+Binaries/
+Content/
+DerivedDataCache/
+Documents/
+Intermediate/
+Package/
+Saved/
+Script/
+
+# Ignore additives.
+*.sln
+Config/DefaultEngine.ini
+Config/DefaultCrypto.ini
